@@ -11,3 +11,4 @@ A hardened, production-ready ML inference service built with FastAPI and Docker.
 
    Reliability: Built with a clean separation of concerns between model logic and API infrastructure.
 
+![image](https://github.com/bekgirma/Mission-Analytics-API/blob/main/Architecture%20Diagram.png?raw=true)
